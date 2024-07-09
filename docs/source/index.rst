@@ -38,6 +38,8 @@ Contents
    api
    analysis
    file
+   tables
+   groups
    exceptions
 
 
