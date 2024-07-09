@@ -30,7 +30,6 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-nbsphinx_execute = 'never'
 
 templates_path = ['_templates']
 
