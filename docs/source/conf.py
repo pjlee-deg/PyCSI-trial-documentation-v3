@@ -2,12 +2,17 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PyCSI'
+copyright = '2024, Degenkolb Engineers'
+author = 'Luis Pancardo, Daniel Gaspar, Peter Lee'
 
 release = '0.1'
 version = '0.1.0'
+
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('../..'))
 
 # -- General configuration
 
