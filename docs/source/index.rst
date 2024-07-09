@@ -36,7 +36,7 @@ Contents
 
    usage
    api
-
+   analysis
 
 
 Updates
