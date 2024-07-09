@@ -34,7 +34,7 @@ Contents
 --------
 .. toctree::
 
-   usage
+
    api
    analysis
    file
