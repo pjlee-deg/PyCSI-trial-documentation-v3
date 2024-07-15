@@ -22,6 +22,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.napoleon',
     'nbsphinx',
 ]
 
@@ -43,3 +44,6 @@ epub_show_urls = 'footnote'
 
 nbsphinx_allow_errors = True
 nbsphinx_execute = 'never'
+
+# Napoleon docstrings
+napoleon_google_docstring = True

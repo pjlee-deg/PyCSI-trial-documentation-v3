@@ -15,7 +15,7 @@ from typing import Optional
 
 from pyCSI.components import Analysis
 from pyCSI.components import File
-from pyCSI.components import Group
+from pyCSI.components import Groups
 from pyCSI.components import Helper
 from pyCSI.components import Tables
 from pyCSI.enums import ForceUnit
@@ -60,7 +60,7 @@ class ETABSModel:
         self._temperature_unit: str | None = None
         self._analysis: Analysis | None = None
         self._file: File | None = None
-        self._group: Group | None = None
+        self._groups: Groups | None = None
         self._tables: Tables | None = None
         self.connected_to_model: bool = False
 
@@ -160,7 +160,7 @@ class ETABSModel:
         return self._file
 
     @property
-    def group(self) -> Group:
+    def group(self) -> Groups:
         '''Class property that gives access to group operations'''
 
         if self._group is None:
