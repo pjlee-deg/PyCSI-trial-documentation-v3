@@ -33,7 +33,7 @@ For instructions on how to setup and use PyCSI in your Python script read the In
 Contents
 --------
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    analysis
    file
