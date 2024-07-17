@@ -34,6 +34,7 @@ Functions
 --------
 .. toctree::
    :maxdepth: 2
+
    analysis
    file
    tables
@@ -45,6 +46,7 @@ Tutorials
 --------
 .. toctree::
    :maxdepth: 2
+   
    notebooks/2_Basic_functions
    notebooks/3_Table_Operations
    notebooks/4_Group_Methods

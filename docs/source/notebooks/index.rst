@@ -2,6 +2,7 @@ TUTORIALS
 ===================================
 .. toctree::
    :maxdepth: 2
+   
    1_Introduction_and_Setup
    2_Basic_functions
    3_Table_Operations
