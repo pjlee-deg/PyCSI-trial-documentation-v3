@@ -30,7 +30,7 @@ Getting Started
 --------
 For instructions on how to setup and use PyCSI in your Python script read the Introduction and Setup tutorial file.
 
-Contents
+Functions
 --------
 .. toctree::
    :maxdepth: 2
@@ -40,13 +40,19 @@ Contents
    tables
    groups
    exceptions
+
+
+Tutorials
+--------
+.. toctree::
+   :maxdepth: 2
+
    notebooks/1_Introduction_and_Setup
    notebooks/2_Basic_functions
    notebooks/3_Table_Operations
    notebooks/4_Group_Methods
    notebooks/5_Example_use
    notebooks/6_Troubleshooting_and_FAQs
-
 Updates
 -------
 Major updates: - (2024.03.25): First uploaded version.
